@@ -1,12 +1,13 @@
 # Lets Chat!
 
 ## App Name:
-Lets Chat!
+**Lets Chat!
 
 ## Date Created: 
-16 MArch 2017
-##Developers: 
-Shubh Gupta, Naman Jain, Neelesh Kumar
+**16 MArch 2017
+
+## Developers: 
+**Shubh Gupta, Naman Jain, Neelesh Kumar
 
 ### ABOUT
 "Lets Chat!" is a chat app wherein registered users can share text messages and emojis(google keyboard). App supports an easy to understand UI, messages and users can be monitored in the FireBase database.
